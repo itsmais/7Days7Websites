@@ -1,4 +1,5 @@
 # 7Days7Websites
+On a week streak, starting on the 17th of August, 2020.
 ### 1. Arab Countries COVID-19 Stats Dashboard
 A single webpage that displays COVID-19 statistics in the Arab world.
 - Link: https://itsmais.github.io/arab-covid-19-stats
