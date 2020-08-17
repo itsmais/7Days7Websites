@@ -1,9 +1,7 @@
-# 7Days7Apps
-### 1. Movies Display
-https://github.com/itsmais/Movies-Display
-### 2. Corona Stats
-https://github.com/itsmais/Movies-Display
-### 3. LDR Time
-https://github.com/itsmais/Movies-Display
-### 4. Earthquake Notification
-https://github.com/itsmais/Movies-Display
+# 7Days7Websites
+### 1. Arab Countries COVID-19 Stats Dashboard
+A single webpage that displays COVID-19 statistics in the Arab world.
+- Link: https://itsmais.github.io/arab-covid-19-stats
+### 2. Sleep Calculator
+A single webpage that uses the REM sleep formula to provide you with optimal sleep.
+- Link: https://itsmais.github.io/sleep-calculator
