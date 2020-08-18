@@ -7,3 +7,11 @@ A single webpage that displays COVID-19 statistics in the Arab world.
 A single webpage that uses the REM sleep formula to provide you with optimal sleep.
 - Link: https://itsmais.github.io/sleep-calculator
 - Source code available at: https://github.com/itsmais/sleep-calculator
+### 4. Flight Status Checker :airplane:
+User enters flight number/code to receive its status.
+- Link:
+- Source code available at: 
+
+#### Inspirations:
+- https://rapidapi.com/blog/most-popular-api/
+- https://github.com/florinpop17/app-ideas
