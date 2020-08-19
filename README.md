@@ -15,7 +15,8 @@ A single webpage that uses the REM sleep formula to provide you with optimal sle
 - Source code available at: https://github.com/itsmais/sleep-calculator
 #### 3. Flight Status Checker :airplane:
 User enters flight number/code to receive its status.
-- Link:
-- Source code available at: 
-
-
+- Source code available at: https://github.com/itsmais/flight-status
+#### 4. Coming soon
+#### 5. Coming soon
+#### 6. Coming soon
+#### 7. Coming soon
