@@ -1,11 +1,5 @@
 # 7Days7Websites
 On a week streak, starting on the 17th of August, 2020.
-#### Inspirations:
-I have no solid ideas of the websites I'll be building. But those are my two main sources of inspiration:
-- https://rapidapi.com/blog/most-popular-api/
-- https://github.com/florinpop17/app-ideas
-- https://api.imgflip.com/get_memes
-
 ### Websites
 #### 1. Arab Countries COVID-19 Stats :chart_with_upwards_trend: Dashboard
 A single webpage that displays COVID-19 statistics in the Arab world.
@@ -21,3 +15,14 @@ User enters flight number/code to receive its status.
 #### 5. Coming soon
 #### 6. Coming soon
 #### 7. Coming soon
+
+#### Inspirations:
+Starter note: I have no solid ideas of the websites I'll be building. But those are my two main sources of inspiration:
+- https://rapidapi.com/blog/most-popular-api/
+- https://github.com/florinpop17/app-ideas
+- https://apilist.fun/
+- reddit https://pushshift.io/api-parameters/
+- https://www.programmableweb.com/apis/directory
+- https://api.imgflip.com/get_memes
+- https://datasf.org/opendata/
+- https://github.com/public-apis/public-apis
