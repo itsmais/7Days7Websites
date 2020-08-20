@@ -11,7 +11,10 @@ A single webpage that uses the REM sleep formula to provide you with optimal sle
 #### 3. Flight Status Checker :airplane:
 User enters flight number/code to receive its status.
 - Source code available at: https://github.com/itsmais/flight-status
-#### 4. Coming soon
+#### 4. An Exchange Website :euro:
+A currency exchange website for the Arab world.
+- Link:
+- Source code available at:
 #### 5. Coming soon
 #### 6. Coming soon
 #### 7. Coming soon
@@ -26,3 +29,5 @@ Starter note: I have no solid ideas of the websites I'll be building. But those 
 - https://api.imgflip.com/get_memes
 - https://datasf.org/opendata/
 - https://github.com/public-apis/public-apis
+- https://developer.here.com/develop/rest-apis
+- https://exchangeratesapi.io/
