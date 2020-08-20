@@ -12,7 +12,7 @@ A single webpage that uses the REM sleep formula to provide you with optimal sle
 User enters flight number/code to receive its status.
 - Source code available at: https://github.com/itsmais/flight-status
 #### 4. An Exchange Website :euro:
-A currency exchange website for the Arab world.
+A currency exchange website for LBP and SYP.
 - Link:
 - Source code available at:
 #### 5. Coming soon
