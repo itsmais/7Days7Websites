@@ -13,7 +13,7 @@ User enters flight number/code to receive its status.
 - Source code available at: https://github.com/itsmais/flight-status
 #### 4. An Exchange Website :euro:
 A currency exchange website for LBP and SYP.
-- Link: https://github.com/itsmais
+- Link: https://itsmais.github.io/currency-exchange-rate-lbp-syp
 
 #### 5. Coming soon
 #### 6. Coming soon
