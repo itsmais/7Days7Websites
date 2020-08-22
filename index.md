@@ -1,15 +1,26 @@
-## Welcome to GitHub Pages
+## Introduction
+On a week streak, starting on the 17th of August, 2020.
 
-You can use the [editor on GitHub](https://github.com/itsmais/7Days7Websites/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Websites
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 1. Arab Countries COVID-19 Stats :chart_with_upwards_trend: Dashboard
+A single webpage that displays COVID-19 statistics in the Arab world.
+- Link: https://itsmais.github.io/arab-covid-19-stats
+#### 2. Sleep Calculator :alarm_clock:
+A single webpage that uses the REM sleep formula to provide you with optimal sleep.
+- Link: https://itsmais.github.io/sleep-calculator
+- Source code available at: https://github.com/itsmais/sleep-calculator
+#### 3. Flight Status Checker :airplane:
+User enters flight number/code to receive its status.
+- Source code available at: https://github.com/itsmais/flight-status
+#### 4. An Exchange Website :euro:
+A currency exchange website for LBP and SYP.
+- Link: https://itsmais.github.io/currency-exchange-rate-lbp-syp
 
-### Markdown
+#### 5. Cloud a Subreddit ☁️
+Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words.
+- Link: https://itsmais.github.io/word-cloud-subreddit/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
