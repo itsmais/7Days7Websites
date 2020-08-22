@@ -1,6 +1,5 @@
 ## Introduction
-On a week streak, starting on the 17th of August, 2020.
-
+I post regular challenge updates on [https://twitter.com/mais_hatem](twitter) with the #7days7websites hashtag.
 ### Websites
 
 #### 1. Arab Countries COVID-19 Stats :chart_with_upwards_trend: Dashboard
@@ -22,20 +21,9 @@ Creates a word cloud out of the front page of any given subreddit. I used AnyCha
 - Link: https://itsmais.github.io/word-cloud-subreddit/
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+[Link](url) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
