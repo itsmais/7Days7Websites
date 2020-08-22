@@ -15,7 +15,10 @@ User enters flight number/code to receive its status.
 A currency exchange website for LBP and SYP.
 - Link: https://itsmais.github.io/currency-exchange-rate-lbp-syp
 
-#### 5. Coming soon
+#### 5. Cloud a Subreddit ☁️
+Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words.
+- Link: https://itsmais.github.io/word-cloud-subreddit/
+
 #### 6. Coming soon
 #### 7. Coming soon
 
