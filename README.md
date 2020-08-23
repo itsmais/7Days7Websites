@@ -19,7 +19,8 @@ A currency exchange website for LBP and SYP.
 Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words.
 - Link: https://itsmais.github.io/word-cloud-subreddit/
 
-#### 6. Coming soon
+#### 6. Weather Forecast 🌡️
+- Link: 
 #### 7. Coming soon
 
 #### Inspirations:
