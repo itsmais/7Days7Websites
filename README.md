@@ -14,15 +14,13 @@ User enters flight number/code to receive its status.
 #### 4. An Exchange Website :euro:
 A currency exchange website for LBP and SYP.
 - Link: https://itsmais.github.io/currency-exchange-rate-lbp-syp
-
 #### 5. Cloud a Subreddit ☁️
 Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words.
 - Link: https://itsmais.github.io/word-cloud-subreddit/
-
 #### 6. Weather Forecast 🌡️
-- Link: 
+- Link: https://itsmais.github.io/weather-app/
 #### 7. Coming soon
-
+- Link: 
 #### Inspirations:
 Starter note: I have no solid ideas of the websites I'll be building. But those are my two main sources of inspiration:
 - https://rapidapi.com/blog/most-popular-api/
