@@ -17,9 +17,9 @@ Link: [https://itsmais.github.io/currency-exchange-rate-lbp-syp](https://itsmais
 #### 5. Cloud a Subreddit ☁️
 Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words. <br>
 Link: [https://itsmais.github.io/word-cloud-subreddit/](https://itsmais.github.io/word-cloud-subreddit/)
-#### 6. Coming soon
-coming soon coming soon coming soon coming soon coming soon. <br>
-Link: [https://itsmais.github.io/](https://itsmais.github.io/)
+#### 6. Weather Forecast 🌡️
+Gives the weather status in the user's current location. <br>
+- Link: https://itsmais.github.io/weather-app/
 #### 7. Coming soon
 coming soon coming soon coming soon coming soon coming soon. <br>
 Link: [https://itsmais.github.io/](https://itsmais.github.io/)
