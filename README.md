@@ -33,3 +33,4 @@ Starter note: I have no solid ideas of the websites I'll be building. But those 
 - https://github.com/public-apis/public-apis
 - https://developer.here.com/develop/rest-apis
 - https://www.data.gov/
+- https://plotly.com/javascript/maps/
