@@ -21,7 +21,7 @@ Creates a word cloud out of the front page of any given subreddit. I used AnyCha
 - Link: https://itsmais.github.io/weather-app/
 #### 7. What shall I wear? 👚
 Suggests clothes depending on the weather status.
-Link: https://itsmais.github.io/what-shall-i-wear/
+- Link: https://itsmais.github.io/what-shall-i-wear/
 
 #### Inspirations:
 Starter note: I have no solid ideas of the websites I'll be building. But those are my two main sources of inspiration:
