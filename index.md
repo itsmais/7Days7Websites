@@ -20,6 +20,6 @@ Link: [https://itsmais.github.io/word-cloud-subreddit/](https://itsmais.github.i
 #### 6. Weather Forecast 🌡️
 Gives the weather status in the user's current location. <br>
 Link: [https://itsmais.github.io/weather-app/](https://itsmais.github.io/weather-app/) 
-#### 7. Coming soon
-coming soon coming soon coming soon coming soon coming soon. <br>
-Link: [https://itsmais.github.io/](https://itsmais.github.io/)
+#### 7. What shall I wear? 👚
+Suggests clothes depending on the weather status. <br>
+Link: [https://itsmais.github.io/what-shall-i-wear/](https://itsmais.github.io/what-shall-i-wear/)
