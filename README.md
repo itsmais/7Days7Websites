@@ -24,7 +24,7 @@ Suggests clothes depending on the weather status.
 - Link: https://itsmais.github.io/what-shall-i-wear/
 
 #### Inspirations:
-Starter note: I have no solid ideas of the websites I'll be building. But those are my two main sources of inspiration:
+Starter note: I have no solid ideas of the websites I'll be building. But those are my main sources of inspiration:
 - https://rapidapi.com/blog/most-popular-api/
 - https://github.com/florinpop17/app-ideas
 - https://apilist.fun/
