@@ -13,13 +13,17 @@ User enters flight number/code to receive its status. <br>
 Source code available at: [https://github.com/itsmais/flight-status](https://github.com/itsmais/flight-status)
 #### 4. An Exchange Website 💶
 A currency exchange website for LBP and SYP. <br>
-Link: [https://itsmais.github.io/currency-exchange-rate-lbp-syp](https://itsmais.github.io/currency-exchange-rate-lbp-syp)
+Link: [https://itsmais.github.io/currency-exchange-rate-lbp-syp](https://itsmais.github.io/currency-exchange-rate-lbp-syp) <br>
+Source code available at: [https://github.com/itsmais/currency-exchange-rate-lbp-syp](https://github.com/itsmais/currency-exchange-rate-lbp-syp)
 #### 5. Cloud a Subreddit ☁️
 Creates a word cloud out of the front page of any given subreddit. I used AnyChart. I still need to eliminiate non essential linking words. <br>
-Link: [https://itsmais.github.io/word-cloud-subreddit/](https://itsmais.github.io/word-cloud-subreddit/)
+Link: [https://itsmais.github.io/word-cloud-subreddit/](https://itsmais.github.io/word-cloud-subreddit/) <br>
+Source code available at: [https://github.com/itsmais/word-cloud-subreddit](https://github.com/itsmais/word-cloud-subreddit)
 #### 6. Weather Forecast 🌡️
 Gives the weather status in the user's current location. <br>
-Link: [https://itsmais.github.io/weather-app/](https://itsmais.github.io/weather-app/) 
+Link: [https://itsmais.github.io/weather-app/](https://itsmais.github.io/weather-app/) <br>
+Source code available at: [https://github.com/itsmais/weather-app/](https://github.com/itsmais/weather-app/)
 #### 7. What shall I wear? 👚
 Suggests clothes depending on the weather status. <br>
-Link: [https://itsmais.github.io/what-shall-i-wear/](https://itsmais.github.io/what-shall-i-wear/)
+Link: [https://itsmais.github.io/what-shall-i-wear/](https://itsmais.github.io/what-shall-i-wear/) <br>
+Source code available at: [https://github.com/itsmais/what-shall-i-wear](https://github.com/itsmais/what-shall-i-wear)
