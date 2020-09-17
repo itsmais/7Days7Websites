@@ -25,7 +25,6 @@ Suggests clothes depending on the weather status.
 
 #### Inspirations:
 Starter note: I have no solid ideas of the websites I'll be building. But those are my main sources of inspiration:
-- https://rapidapi.com/blog/most-popular-api/
 - https://github.com/florinpop17/app-ideas
 - https://apilist.fun/
 - reddit https://pushshift.io/api-parameters/
@@ -35,4 +34,6 @@ Starter note: I have no solid ideas of the websites I'll be building. But those 
 - https://github.com/public-apis/public-apis
 - https://developer.here.com/develop/rest-apis
 - https://www.data.gov/
+- https://github.com/public-apis/public-apis
+- https://recycledrobot.co.uk/words/?deepai
 - https://plotly.com/javascript/maps/
