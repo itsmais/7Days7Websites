@@ -1,5 +1,6 @@
 ## Introduction
-I did the #7days7websites challenge. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/](Check here for more background info).
+I did the #7days7websites challenge. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge](Check here for more background info).
+
 ### Websites
 #### 1. Arab Countries COVID-19 Stats 📈 Dashboard
 A single webpage that displays COVID-19 statistics in the Arab world. <br>
