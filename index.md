@@ -1,5 +1,5 @@
 ## Introduction
-I did the #7days7websites challenge. [https://www.freecodecamp.org/news/the-7days7websites-coding-challenge](Check here for more background info).
+I did the #7days7websites challenge. [Check here for more background info](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge).
 
 ### Websites
 #### 1. Arab Countries COVID-19 Stats 📈 Dashboard
